@@ -16,9 +16,6 @@ for (let i of arr) {
 for (let key in obj) {
     console.log(key , obj[key]);
     console.log("hi");
-    console.log("hi");
-    console.log("hi");
-    console.log("hi");
 }
 
 
